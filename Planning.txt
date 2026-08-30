@@ -1,3 +1,0 @@
-Project Core:
-
-Just building basic password cracker in python to give myself a cyber project thats at least kinda intreasting. 
